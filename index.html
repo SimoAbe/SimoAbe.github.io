@@ -1,27 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-   <link rel="stylesheet" href="table_style.css" >
-   <script id="MathJax-script" async
-          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-  </script>
-</head>
-   
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fancy Sidebar and Scrollable Blue Table</title>
 <style>
-body {
-  background-image: url('Canvas.webp');
-}
+  /* General body styling */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+  }
+
   /* Sidebar styling */
   .sidebar {
     width: 250px;
     height: 100vh;
-    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    background: linear-gradient(135deg, #00416a, #00bcd4);
     color: white;
     display: flex;
     flex-direction: column;
     padding-top: 20px;
     box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
-    transition: width 0.3s;
   }
 
   /* Sidebar title */
@@ -79,9 +79,53 @@ body {
     padding: 40px;
     background: #f4f4f9;
   }
+
+  /* Table styling */
+  .table-container {
+    max-height: 200px; /* Fixed height for scrollable table */
+    overflow-y: auto; /* Enable vertical scrollbar */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 16px;
+    color: #333;
+  }
+
+  /* Table header */
+  table th {
+    background-color: #007bff;
+    color: white;
+    padding: 12px;
+    text-align: left;
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+  }
+
+  /* Table cells */
+  table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    background-color: #f0f8ff;
+  }
+
+  /* Alternating row colors */
+  table tr:nth-child(even) {
+    background-color: #e3f2fd;
+  }
+
+  /* Hover effect for rows */
+  table tr:hover {
+    background-color: #cce5ff;
+  }
 </style>
-   
-<body>   
+</head>
+<body>
+
 <div class="sidebar">
   <div class="title">My Sidebar</div>
   <ul>
@@ -94,35 +138,43 @@ body {
 </div>
 
 <div class="content">
-<div class="table-container">
+  <h1>Welcome to the Scrollable Blue Table</h1>
+  <p>Below is an example of a fancy blue table with a vertical scrollbar:</p>
+
+  <div class="table-container">
     <table>
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Summary</th>
-                <th>Note</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>12/12</td>
-                <td>Equazione di stato di un gas degenere e debolmente degenere. Gas fermionico degenere.</td>
-                <td><a href="https://drive.google.com/file/d/1yX-8HmeoVku-6I0cXDMUS_fLtOverkjp/view?usp=drive_link">\(S = k_B \ln W\)</a></td>
-            </tr>
-            <tr>
-                <td>13/12</td>
-                <td>Calore specifico di un gas fermionico degenere. Gas bosonico degenere.</td>
-                <td><a href="https://drive.google.com/file/d/10ODFtr-9euOYedKzabfw9RegOZqyMq1m/view?usp=drive_link">\(S = k_B \ln W\)</a></td>
-            </tr>
-           <tr>
-                <td>14/12</td>
-                <td>Superfluidità; diagramma di fase di <sup>4</sup><i>He</i>.</td>
-                <td><a href="https://drive.google.com/file/d/1fON7QRnvUM8E0W7V4Ip5yC7GHAl5u1jD/view?usp=drive_link">\(S = k_B \ln W\)</a></td>
-            </tr>
-        </tbody>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Summary</th>
+          <th>Link</th>
+          <th>Comments</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>12/12</td>
+          <td>Equazione di stato di un gas degenere e debolmente degenere. Gas fermionico degenere.</td>
+          <td><a href="https://drive.google.com/file/d/1yX-8HmeoVku-6I0cXDMUS_fLtOverkjp/view?usp=drive_link">&#x1F517</a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>13/12</td>
+          <td>Calore specifico di un gas fermionico degenere. Gas bosonico degenere.</td>
+          <td><a href="https://drive.google.com/file/d/10ODFtr-9euOYedKzabfw9RegOZqyMq1m/view?usp=drive_link">&#x1F517</a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>14/12</td>
+          <td>Superfluidità; diagramma di fase di <sup>4</sup><i>He</i>.</td>
+          <td><a href="https://drive.google.com/file/d/1fON7QRnvUM8E0W7V4Ip5yC7GHAl5u1jD/view?usp=drive_link">&#x1F517</a></td>
+          <td></td>
+        </tr>
+      </tbody>
     </table>
+  </div>
 </div>
-</div>
-   
+
 </body>
-</html>   
+</html>
+ 
