@@ -1,5 +1,5 @@
 layout: page
-title: "Struttura della materia"
-permalink: https://SimoAbe.github.io/Struttura della materia
+title: "Struttura_della_materia"
+permalink: https://simoabe.github.io/Struttura_della_materia
 
 Qui ci saranno gli appunti
