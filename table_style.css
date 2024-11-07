@@ -5,7 +5,7 @@ $imageSmall: 60px;
 $padding: 10px;
 
 body {
-   background-color: blue;
+   background-color: lighten($baseColor, 30%);
    * { box-sizing: border-box; }
 }
 
@@ -162,5 +162,4 @@ table {
       box-shadow: none;
       overflow: visible;
    }
-
 }
