@@ -1,0 +1,4 @@
+(1) Ricavare la funzione di partizione grancanonica per un gas fermionico e per un gas bosonico.
+(2) Ricavare l'equazione di stato per un gas degenere a partire dal potenziale grancanonico.
+(3) Definire il regime debolmente degenere e ricavare la corrispondente equazione di stato per un gas ideale.
+(4) Descrivere il comportamento di un gas fermionico a temperatura nulla: densità di stati, energia di Fermi, energia media per fermione.
