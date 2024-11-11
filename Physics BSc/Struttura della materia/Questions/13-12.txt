@@ -1,6 +1,0 @@
-(1) Derivare la dipendenza del calore specifico per fermione dalla temperatura nel regime di temperature molto inferiori a quella di Fermi.
-(2) Spiegare la pressione di degenerazione.
-(3) Gas bosonico: criticità del passaggio da discreto a continuo nel calcolo dell'occupazione dello stato fondamentale per temperature inferiori a un'opportuna temperatura critica.
-(4) Temperatura di condensazione di Bose-Einstein.
-(5) Correzione alla dipendenza della densità dalla temperatura nel caso di riempimento macroscopico dello stato fondamentale.
-(6) Definizione di fase superfluida.
