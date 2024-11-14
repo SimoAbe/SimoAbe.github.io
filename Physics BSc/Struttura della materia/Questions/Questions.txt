@@ -1,0 +1,36 @@
+Enunciare l'assunto di equiprobabilità a priori.
+Illustrare il concetto di equilibrio termico come ridistribuzione più probabile di energia.
+Confrontare entropia termodinamica ed entropia statistica.
+Ricavare la distribuzione di probabilità canonica.
+Definire l'energia libera di Helmholtz e derivare la sua relazione con la funzione di partizione canonica.
+Definire la trasformata di Legendre per funzioni di una variabile.
+Invertibilità di entropia ed energia.
+Elencare i potenziali termodinamici e derivarli iterativamente a partire dall'energia.
+Classi di particelle e simmetria delle funzioni d'onda per sistemi di più particelle.
+Algoritmo di (anti)simmetrizzazione di funzioni d'onda per sistemi di particelle libere.
+Modellizzazione del gas ideale come sistema di particelle libere in una scatola (livelli energetici).
+Definire il regime di trascurabilità del principio di esclusione e derivazione dell'equazione di stato per un gas ideale.
+Derivare la funzione di partizione di un gas ideale classico.
+Mostrare la relazione tra regime classico e n / n_Q .
+Calcolo di F , E , S per un gas ideale classico.
+Determinare la condizione di equilibrio rispetto allo scambio di particelle.
+Ricavare la distribuzione di probabilità grancanonica.
+Determinare la relazione tra numero medio di particelle ⟨ N ⟩ e funzione di partizione grancanonica.
+Calcolo del potenziale chimico μ per un gas ideale classico.
+Determinare l'occupazione media f di uno stato quantico in funzione della classe di particelle.
+Rappresentazione grafica dell'andamento di f per fermioni al variare della temperatura.
+Definire il potenziale grancanonico o di Landau.
+Ricavare la funzione di partizione grancanonica per un gas fermionico e per un gas bosonico.
+Ricavare l'equazione di stato per un gas degenere a partire dal potenziale grancanonico.
+Definire il regime debolmente degenere e ricavare la corrispondente equazione di stato per un gas ideale.
+Descrivere il comportamento di un gas fermionico a temperatura nulla: densità di stati, energia di Fermi, energia media per fermione.
+Derivare la dipendenza del calore specifico per fermione dalla temperatura nel regime di temperature molto inferiori a quella di Fermi.
+Spiegare la pressione di degenerazione.
+Gas bosonico: criticità del passaggio da discreto a continuo nel calcolo dell'occupazione dello stato fondamentale per temperature inferiori a un'opportuna temperatura critica.
+Temperatura di condensazione di Bose-Einstein.
+Correzione alla dipendenza della densità dalla temperatura nel caso di riempimento macroscopico dello stato fondamentale.
+Definizione di fase superfluida.
+
+
+
+
