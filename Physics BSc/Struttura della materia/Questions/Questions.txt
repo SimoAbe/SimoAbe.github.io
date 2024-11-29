@@ -30,6 +30,19 @@ Gas bosonico: criticità del passaggio da discreto a continuo nel calcolo dell'o
 Temperatura di condensazione di Bose-Einstein.
 Correzione alla dipendenza della densità dalla temperatura nel caso di riempimento macroscopico dello stato fondamentale.
 Definizione di fase superfluida.
+Confronto tra i massimi del popolamento degli stati fondamentale e primo eccitato alle rispettive temperature.
+Classificazione delle transizioni di fase.
+Spiegazione del perché He-4 rimane in fase liquida a pressione atmosferica a temperature arbitrariamente basse.
+Relazione qualitativa tra intensità delle interazioni atomiche e variazione dell'energia libera F in corrispondenza di un decremento temperatura.
+Descrizione semi-quantitativa delle interazioni atomiche in He-4.
+Condizione necessaria per la superfluidità (argomento di Landau).
+Legame tra relazione di dispersione ε (p) e superfluidità.
+Stima dell'energia di stato fondamentale dell'atomo di He in teoria perturbativa al primo ordine.
+Definizione e significato fisico dell'integrale coulombiano diretto.
+Confronto tra valore perturbativo dell'energia fondamentale dell'atomo di He e valore sperimentale.
+Principio variazionale nell'approssimazione di funzioni d'onda di stato fondamentale.
+Stima dell'energia di stato fondamentale per He tramite principio variazionale.
+Discussione del primo stato eccitato dell'atomo di He. Correzione all'energia.
 
 
 
