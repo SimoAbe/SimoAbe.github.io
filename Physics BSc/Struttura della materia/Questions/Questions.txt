@@ -43,6 +43,35 @@ Confronto tra valore perturbativo dell'energia fondamentale dell'atomo di He e v
 Principio variazionale nell'approssimazione di funzioni d'onda di stato fondamentale.
 Stima dell'energia di stato fondamentale per He tramite principio variazionale.
 Discussione del primo stato eccitato dell'atomo di He. Correzione all'energia.
+Definizione di integrale di scambio.
+In riferimento al modello di Hartree per atomi a molti elettroni, introdurre la teoria di campo medio.
+Definire potenziale ed equazione di Hartree.
+Descrivere il procedimento per la determinazione di soluzioni autoconsistenti in teoria di di campo medio.
+Distinzione tra equazione di Hartree ed equazione di Hartree-Fock.
+Sfericizzazione del potenziale di Hartree.
+Forma delle soluzioni dell'equazione di Hartree sotto ipotesi di sfero-simmetria di del potenziale di Hartree.
+Gerarchia in energia per atomi a molti elettroni nel modello di Hartree sfero-simmetrico e sua interpretazione fisica.
+Correzione all'energia complessiva dell'atomo a molti elettroni nel modello di Hartree (Hint: discutere il legame tra potenziale di Hartree ed autointerazione).
+Correzioni non sferiche all'hamiltoniana di Hartree.
+Simmetrie per l'hamiltoniana di perturbazione non sferica e sua diagonalizzazione in sottospazi di Hartree degeneri.
+Definire il simbolo di termine per atomi a molti elettroni.
+Enunciare le prime due regole di Hund.
+Scrivere il simbolo di termine di stato fondamentale per gli elementi della seconda riga della tavola periodica.
+Ruolo dell'interazione spin-orbita e gerarchia perturbativa per atomi leggeri ( Z ≲ 40 ).
+Arricchimento del simbolo di termine dovuto all'interazione spin-orbita.
+3° regola di Hund.
+Scrivere i simboli di termine della seconda riga della tavola periodica alla luce dell'interazione spin-orbita.
+Ruolo dell'interazione spin-orbita e gerarchia perturbativa per atomi pesanti ( Z ≳ 40 ).
+Discutere l'interazione spin-orbita per atomi pesanti ( Z ≳ 40 ).
+Definire e motivare il simbolo di termine di stato fondamentale per atomi pesanti ( Z ≳ 40 ).
+Discutere l'effetto di un campo magnetico esterno sui livelli energetici di un atomo a molti elettroni.
+Discutere l'effetto Zeeman normale e l'effetto Zeeman anomalo.
+Rottura della degenerazione in energia di un atomo a molti elettroni sotto l'azione di un campo magnetico esterno.
+
+
+
+
+
 
 
 
